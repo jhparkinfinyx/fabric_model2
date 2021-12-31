@@ -1,0 +1,8 @@
+gan/399_generator.pth
+gan/F_260_generator.pth
+similarity/model_resnet34_triplet_epoch_26.pt
+similarity/model_1.pt
+similarity/model_2.pt
+
+*.pt
+*.pth
